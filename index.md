@@ -1,5 +1,1 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+O projeto Dínamo tem como objetivo estimular a criação de clubes de ciência ou outras experiências não convencionais que possam geral impacto no desenvolvimento pessoal e científico dos alunos. Para isso, realizamos atividades de divulgação, demonstração e suporte dos clubes de ciências em escolas.
