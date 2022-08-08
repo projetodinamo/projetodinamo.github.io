@@ -1,32 +1,18 @@
-## Blog Post Title From First Header
+## Nossa equope
 
-Due to a plugin called `jekyll-titles-from-headings` which is supported by GitHub Pages by default. The above header (in the markdown file) will be automatically used as the pages title.
+Beto Pimentel dá aulas de Física no CAp-UFRJ desde 1996. Ele criou o Núcleo de Atividades em Física (NAF) como projeto de ensino na escola em 1997, e desde então vem propondo e realizando atividades envolvendo ciências, aventura e ludicidade com diversas gerações de alunos e ex-alunos participantes do núcleo. Beto tem doutorado em história da Física e se interessa por divulgação científica e pelo uso de quadrinhos e ilustração no ensino e divulgação de ciências.
 
-If the file does not start with a header, then the post title will be derived from the filename.
 
-This is a sample blog post. You can talk about all sorts of fun things here.
+Pedro Terra é professor de Física do Colégio Pedro II.
 
----
 
-### This is a header
+Camila Suizani
 
-#### Some T-SQL Code
+João Pedro Wieland
 
-```tsql
-SELECT This, [Is], A, Code, Block -- Using SSMS style syntax highlighting
-    , REVERSE('abc')
-FROM dbo.SomeTable s
-    CROSS JOIN dbo.OtherTable o;
-```
+João Pedro Bonifácio 
 
-#### Some PowerShell Code
+Luckas Borba
 
-```powershell
-Write-Host "This is a powershell Code block";
+Gabriel Viana 
 
-# There are many other languages you can use, but the style has to be loaded first
-
-ForEach ($thing in $things) {
-    Write-Output "It highlights it using the GitHub style"
-}
-```
